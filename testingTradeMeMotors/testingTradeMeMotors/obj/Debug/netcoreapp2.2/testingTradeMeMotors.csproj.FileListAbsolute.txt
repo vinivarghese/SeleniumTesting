@@ -1,0 +1,14 @@
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/bin/Debug/netcoreapp2.2/testingTradeMeMotors.deps.json
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/bin/Debug/netcoreapp2.2/testingTradeMeMotors.runtimeconfig.json
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/bin/Debug/netcoreapp2.2/testingTradeMeMotors.runtimeconfig.dev.json
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/bin/Debug/netcoreapp2.2/testingTradeMeMotors.dll
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/bin/Debug/netcoreapp2.2/testingTradeMeMotors.pdb
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/obj/Debug/netcoreapp2.2/testingTradeMeMotors.csprojAssemblyReference.cache
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/obj/Debug/netcoreapp2.2/testingTradeMeMotors.csproj.CoreCompileInputs.cache
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/obj/Debug/netcoreapp2.2/testingTradeMeMotors.AssemblyInfoInputs.cache
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/obj/Debug/netcoreapp2.2/testingTradeMeMotors.AssemblyInfo.cs
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/obj/Debug/netcoreapp2.2/testingTradeMeMotors.dll
+/Users/vinivarghese/Projects/testingTradeMeMotors/testingTradeMeMotors/obj/Debug/netcoreapp2.2/testingTradeMeMotors.pdb
